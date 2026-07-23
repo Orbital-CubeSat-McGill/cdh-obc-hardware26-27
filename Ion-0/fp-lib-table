@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "1_Ion") (type "KiCad") (uri "${KIPRJMOD}/ion_library/1_Ion.pretty") (options "") (descr ""))
+)
