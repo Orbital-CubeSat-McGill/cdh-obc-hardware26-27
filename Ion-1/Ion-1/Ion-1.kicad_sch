@@ -1,0 +1,243 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "7a072ce0-ff2f-4ce8-9fd5-0d666927eaea")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 87.63 52.07)
+		(size 35.56 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "09f3913f-99d0-4d33-889d-1663948c1892")
+		(property "Sheetname" "communication"
+			(at 87.63 51.3584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "communication.kicad_sch"
+			(at 87.63 57.7346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Ion-1"
+				(path "/7a072ce0-ff2f-4ce8-9fd5-0d666927eaea"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 87.63 41.275)
+		(size 35.56 5.715)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "22a48cb2-24e1-4afa-8930-e55016f9677e")
+		(property "Sheetname" "sensors and such"
+			(at 87.63 40.5634 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensorsandsuch.kicad_sch"
+			(at 87.63 47.5746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Ion-1"
+				(path "/7a072ce0-ff2f-4ce8-9fd5-0d666927eaea"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127.635 30.48)
+		(size 48.26 6.985)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "23b42009-b678-4466-9cdc-483ea4232851")
+		(property "Sheetname" "BeagleBone"
+			(at 127.635 29.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "beaglebone.kicad_sch"
+			(at 127.635 38.0496 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Ion-1"
+				(path "/7a072ce0-ff2f-4ce8-9fd5-0d666927eaea"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.27 42.545)
+		(size 27.305 4.445)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9d755f48-7fc8-4032-a391-618f8d7baf92")
+		(property "Sheetname" "Motor Drivers"
+			(at 128.27 41.8334 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motordrivers.kicad_sch"
+			(at 128.27 47.5746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Ion-1"
+				(path "/7a072ce0-ff2f-4ce8-9fd5-0d666927eaea"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 87.63 31.115)
+		(size 35.56 5.715)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ac051b28-117b-4093-b7f8-58f57d7c038a")
+		(property "Sheetname" "Power"
+			(at 87.63 30.4034 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 87.63 37.4146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Ion-1"
+				(path "/7a072ce0-ff2f-4ce8-9fd5-0d666927eaea"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
